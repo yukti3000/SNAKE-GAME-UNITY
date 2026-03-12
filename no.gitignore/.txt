@@ -1,0 +1,10 @@
+Library/
+Temp/
+Logs/
+Build/
+Obj/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
